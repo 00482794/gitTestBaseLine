@@ -1,4 +1,17 @@
 1
 2
+<<<<<<< .mine
 sec2
 test1
+
+
+
+
+=======
+sec2
+<<<<<<< HEAD
+test2
+=======
+test1
+>>>>>>> test1
+>>>>>>> .theirs
